@@ -4,7 +4,7 @@ A modern, responsive React weather application that provides real-time weather i
 
 ![Weather-image](./public/weather-image.png)
 
-## 🌐 [Live Demo](#)
+## 🌐 [Live Demo](https://weather-app-woad-nu.vercel.app/)
 
 <!-- Add your live demo link here when deployed -->
 
@@ -39,7 +39,7 @@ Before you begin, ensure you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Sonam060703/weather-app.git
    cd weather-app
    ```
 
